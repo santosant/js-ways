@@ -16,7 +16,6 @@
 - A Microsoft fez uma engenharia reversa da linguagem, criando o JScript
 - Com medo de perder o controle, a Netscape tentou padronizar a linguagem em diversas entidades como a W3C
 - Em 1997, a Netscape padronizou a linguagem JavaScript junto a ECMA International, trocando o nome para ECMAScript
-- 
 
 ```scheme
 (define (list-of-sequence n)
